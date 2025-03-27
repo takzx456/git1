@@ -1,13 +1,32 @@
-P{
-    color: red;
+body {
+    background-color: burlywood;
+    background-image: url("reyna.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:center;
+
+
 }
 
-.box1 { 
-    width: 50px; 
-    background-color: aqua; 
+P {
+    color: re   d;
+}
+
+.box1 {
+    width: 50px;
+    background-color: aqua;
     height: 20px;
 }
-.test{
-  
-    text-align: center; /* กึ่งกลาง */
-    }
+
+.test {
+
+    text-align: center;
+    /* กึ่งกลาง */
+}
+
+.kor {
+    background-image: url("tt.png");
+    width: 2000px;
+    height: 3000x;
+
+}
