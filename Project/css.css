@@ -1,7 +1,13 @@
 P{
     color: red;
 }
+
 .box1 { 
-    width: 1200px; 
+    width: 50px; 
     background-color: aqua; 
+    height: 20px;
 }
+.test{
+  
+    text-align: center; /* กึ่งกลาง */
+    }
